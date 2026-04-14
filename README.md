@@ -65,9 +65,12 @@ tenho 19 anos, concluí o ensino médio no IFNMG, com o curso técnico em inform
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MarcosJn08&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosJn08&layout=compact&theme=tokyonight" />
+<p align="center">
+  <img height="160" src="https://streak-stats.demolab.com?user=MarcosJn08&theme=tokyonight" />
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MarcosJn08&theme=tokyonight" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MarcosJn08&theme=tokyonight" />
 </p>
 
 
