@@ -1,6 +1,6 @@
-# Ola 👋, EU sou Marcos Junio
+# Ola 👋, eu sou Marcos Junio
 
-tenho 19 anos, concluí o ensino médio no IFNMG, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no IFNMG.
+Tenho 19 anos, concluí o ensino médio no IFNMG, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no IFNMG.
 
 ---
 
