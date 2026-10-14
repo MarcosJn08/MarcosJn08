@@ -47,8 +47,6 @@ Tenho 19 anos, concluí o ensino médio no IFNMG, com o curso técnico em inform
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=c" height="30" alt="c logo"  />
-  <img width="12" />
 </div>
 
 ### DevOps & Tools
